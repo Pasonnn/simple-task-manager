@@ -1,0 +1,243 @@
+2025-09-26 08:57:55,581 Worker rq:worker:604bf6b8ad8e4478aee64ea8f1e42c3d started with PID 6859, version 2.4.0
+2025-09-26 08:57:55,581 Subscribing to channel rq:pubsub:604bf6b8ad8e4478aee64ea8f1e42c3d
+2025-09-26 08:57:55,581 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 08:57:55,582 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 08:57:55,582 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 08:57:55,582 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 09:02:20,352 Worker 604bf6b8ad8e4478aee64ea8f1e42c3d [PID 6859]: warm shut down requested
+2025-09-26 09:02:20,353 Unsubscribing from channel rq:pubsub:604bf6b8ad8e4478aee64ea8f1e42c3d
+2025-09-26 09:43:49,340 Worker rq:worker:4a98551c06cb472aa9372494ede79818 started with PID 21374, version 2.4.0
+2025-09-26 09:43:49,341 Subscribing to channel rq:pubsub:4a98551c06cb472aa9372494ede79818
+2025-09-26 09:43:49,341 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 09:43:49,341 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 09:43:49,342 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 09:43:49,342 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 09:47:24,754 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User pason.dev@gmail.com>, 'ignore_mandatory': True..., method='frappe.core.doctype.user.user.create_contact', site='todo.localhost', user='Administrator') (todo.localhost||e01400e0-f5db-4dea-8758-2dc79514ae18)
+2025-09-26 09:47:25,451 Successfully completed frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: doctype=User pason.dev@gmail.com>, 'ignore_mandatory': True..., method='frappe.core.doctype.user.user.create_contact', site='todo.localhost', user='Administrator') job in 0:00:00.583570s on worker 4a98551c06cb472aa9372494ede79818
+2025-09-26 09:47:25,451 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default: Job OK (todo.localhost||e01400e0-f5db-4dea-8758-2dc79514ae18)
+2025-09-26 09:47:25,451 Result is kept for 600 seconds
+2025-09-26 09:47:25,458 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'pason.dev@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='todo.localhost', user='Administrator') (todo.localhost||66d00982-6521-42c1-92c3-9443c4168185)
+2025-09-26 09:47:25,679 Successfully completed frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'pason.dev@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='todo.localhost', user='Administrator') job in 0:00:00.216517s on worker 4a98551c06cb472aa9372494ede79818
+2025-09-26 09:47:25,679 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default: Job OK (todo.localhost||66d00982-6521-42c1-92c3-9443c4168185)
+2025-09-26 09:47:25,679 Result is kept for 600 seconds
+2025-09-26 09:54:10,751 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 09:54:10,752 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 09:54:10,752 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 09:57:23,441 Worker 4a98551c06cb472aa9372494ede79818 [PID 21374]: warm shut down requested
+2025-09-26 09:57:23,443 Unsubscribing from channel rq:pubsub:4a98551c06cb472aa9372494ede79818
+2025-09-26 09:57:31,194 Worker rq:worker:bf4fabca22144970834ddc082b16d2cb started with PID 29517, version 2.4.0
+2025-09-26 09:57:31,194 Subscribing to channel rq:pubsub:bf4fabca22144970834ddc082b16d2cb
+2025-09-26 09:57:31,194 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 09:57:31,194 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 09:57:31,195 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 09:57:31,195 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 09:57:33,895 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.build_index_for_all_routes', kwargs={}, method=<function build_index_for_all_routes at 0x7f20b987e980>, site='todo.localhost', user='Administrator') (todo.localhost||0667a436-23bd-4e22-8a84-9b83fd5e00bb)
+Retrieving Routes                   : [=                                       ] 3%Retrieving Routes                   : [==                                      ] 6%Retrieving Routes                   : [===                                     ] 9%Retrieving Routes                   : [=====                                   ] 12%Retrieving Routes                   : [======                                  ] 16%Retrieving Routes                   : [=======                                 ] 19%Retrieving Routes                   : [=========                               ] 22%Retrieving Routes                   : [==========                              ] 25%Retrieving Routes                   : [===========                             ] 29%Retrieving Routes                   : [============                            ] 32%Retrieving Routes                   : [==============                          ] 35%Retrieving Routes                   : [===============                         ] 38%Retrieving Routes                   : [================                        ] 41%Retrieving Routes                   : [==================                      ] 45%Retrieving Routes                   : [===================                     ] 48%Retrieving Routes                   : [====================                    ] 51%Retrieving Routes                   : [=====================                   ] 54%Retrieving Routes                   : [=======================                 ] 58%Retrieving Routes                   : [========================                ] 61%Retrieving Routes                   : [=========================               ] 64%Retrieving Routes                   : [===========================             ] 67%Retrieving Routes                   : [============================            ] 70%Retrieving Routes                   : [=============================           ] 74%Retrieving Routes                   : [==============================          ] 77%Retrieving Routes                   : [================================        ] 80%Retrieving Routes                   : [=================================       ] 83%Retrieving Routes                   : [==================================      ] 87%Retrieving Routes                   : [====================================    ] 90%Retrieving Routes                   : [=====================================   ] 93%Retrieving Routes                   : [======================================  ] 96%Retrieving Routes                   : [========================================] 100%
+Building Index                      : [=                                       ] 3%Building Index                      : [==                                      ] 6%Building Index                      : [===                                     ] 9%Building Index                      : [=====                                   ] 12%Building Index                      : [======                                  ] 16%Building Index                      : [=======                                 ] 19%Building Index                      : [=========                               ] 22%Building Index                      : [==========                              ] 25%Building Index                      : [===========                             ] 29%Building Index                      : [============                            ] 32%Building Index                      : [==============                          ] 35%Building Index                      : [===============                         ] 38%Building Index                      : [================                        ] 41%Building Index                      : [==================                      ] 45%Building Index                      : [===================                     ] 48%Building Index                      : [====================                    ] 51%Building Index                      : [=====================                   ] 54%Building Index                      : [=======================                 ] 58%Building Index                      : [========================                ] 61%Building Index                      : [=========================               ] 64%Building Index                      : [===========================             ] 67%Building Index                      : [============================            ] 70%Building Index                      : [=============================           ] 74%Building Index                      : [==============================          ] 77%Building Index                      : [================================        ] 80%Building Index                      : [=================================       ] 83%Building Index                      : [==================================      ] 87%Building Index                      : [====================================    ] 90%Building Index                      : [=====================================   ] 93%Building Index                      : [======================================  ] 96%Building Index                      : [========================================] 100%2025-09-26 09:57:35,130 Successfully completed frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.build_index_for_all_routes', kwargs={}, method=<function build_index_for_all_routes at 0x7f20b987e980>, site='todo.localhost', user='Administrator') job in 0:00:01.120930s on worker bf4fabca22144970834ddc082b16d2cb
+2025-09-26 09:57:35,130 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long: Job OK (todo.localhost||0667a436-23bd-4e22-8a84-9b83fd5e00bb)
+2025-09-26 09:57:35,130 Result is kept for 600 seconds
+2025-09-26 10:11:05,320 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 10:11:05,321 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 10:11:05,322 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 10:24:35,510 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 10:24:35,512 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 10:24:35,512 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 10:34:49,310 Worker rq:worker:b998df1cc64c4353b4d8c2281197d63e started with PID 52078, version 2.4.0
+2025-09-26 10:34:49,310 Subscribing to channel rq:pubsub:b998df1cc64c4353b4d8c2281197d63e
+2025-09-26 10:34:49,310 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 10:34:49,311 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 10:34:49,311 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 10:34:49,311 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 10:34:49,820 Worker b998df1cc64c4353b4d8c2281197d63e [PID 52078]: warm shut down requested
+2025-09-26 10:34:49,820 Unsubscribing from channel rq:pubsub:b998df1cc64c4353b4d8c2281197d63e
+2025-09-26 10:35:48,485 Worker rq:worker:bbb0014b1e8143aeb5122b6bd255e7c7 started with PID 52561, version 2.4.0
+2025-09-26 10:35:48,485 Subscribing to channel rq:pubsub:bbb0014b1e8143aeb5122b6bd255e7c7
+2025-09-26 10:35:48,486 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 10:35:48,486 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 10:35:48,486 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 10:35:48,487 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 10:35:49,009 Worker bbb0014b1e8143aeb5122b6bd255e7c7 [PID 52561]: warm shut down requested
+2025-09-26 10:35:49,012 Unsubscribing from channel rq:pubsub:bbb0014b1e8143aeb5122b6bd255e7c7
+2025-09-26 10:37:42,061 Worker rq:worker:7c0e61f9c17b4419b11f91c84b050dc3 started with PID 53647, version 2.4.0
+2025-09-26 10:37:42,061 Subscribing to channel rq:pubsub:7c0e61f9c17b4419b11f91c84b050dc3
+2025-09-26 10:37:42,062 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 10:37:42,062 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 10:37:42,063 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 10:37:42,063 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 10:37:42,609 Worker 7c0e61f9c17b4419b11f91c84b050dc3 [PID 53647]: warm shut down requested
+2025-09-26 10:37:42,610 Unsubscribing from channel rq:pubsub:7c0e61f9c17b4419b11f91c84b050dc3
+2025-09-26 10:37:55,966 Worker bf4fabca22144970834ddc082b16d2cb [PID 29517]: warm shut down requested
+Traceback (most recent call last):
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/connection.py", line 385, in connect_check_health
+    sock = self.retry.call_with_retry(
+        lambda: self._connect(), lambda error: self.disconnect(error)
+    )
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/retry.py", line 87, in call_with_retry
+    return do()
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/connection.py", line 386, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ~~~~~~~~~~~~~^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/connection.py", line 797, in _connect
+    raise err
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/connection.py", line 781, in _connect
+    sock.connect(socket_address)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/apps/frappe/frappe/utils/bench_helper.py", line 48, in invoke
+    return super().invoke(ctx)
+           ~~~~~~~~~~~~~~^^^^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/click/core.py", line 1830, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+                           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/click/core.py", line 1226, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/click/core.py", line 794, in invoke
+    return callback(*args, **kwargs)
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/apps/frappe/frappe/commands/scheduler.py", line 206, in start_worker
+    start_worker(
+    ~~~~~~~~~~~~^
+    	queue,
+     ^^^^^^
+    ...<4 lines>...
+    	strategy=strategy,
+     ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/apps/frappe/frappe/utils/background_jobs.py", line 352, in start_worker
+    worker.work(
+    ~~~~~~~~~~~^
+    	logging_level=logging_level,
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    	with_scheduler=False,
+     ^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/rq/worker.py", line 646, in work
+    self.teardown()
+    ~~~~~~~~~~~~~^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/rq/worker.py", line 1147, in teardown
+    self.register_death()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/rq/worker.py", line 894, in register_death
+    p.execute()
+    ~~~~~~~~~^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/client.py", line 1607, in execute
+    conn = self.connection_pool.get_connection()
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/utils.py", line 191, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/connection.py", line 1530, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/connection.py", line 379, in connect
+    self.connect_check_health(check_health=True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/lib/python3.13/site-packages/redis/connection.py", line 391, in connect_check_health
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 111 connecting to 127.0.0.1:11000. Connection refused.
+
+Error 111 connecting to 127.0.0.1:11000. Connection refused.
+2025-09-26 10:37:59,979 Worker rq:worker:7218341d36194421ab7c9c8e4c2486ca started with PID 53949, version 2.4.0
+2025-09-26 10:37:59,979 Subscribing to channel rq:pubsub:7218341d36194421ab7c9c8e4c2486ca
+2025-09-26 10:37:59,980 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 10:37:59,980 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 10:37:59,980 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 10:37:59,980 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 10:40:56,524 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.build_index_for_all_routes', kwargs={}, method=<function build_index_for_all_routes at 0x7eff24086980>, site='todo.localhost', user='Administrator') (todo.localhost||4016de88-4d4c-472d-94da-47af6a442ed9)
+Retrieving Routes                   : [=                                       ] 3%Retrieving Routes                   : [==                                      ] 6%Retrieving Routes                   : [===                                     ] 9%Retrieving Routes                   : [=====                                   ] 12%Retrieving Routes                   : [======                                  ] 16%Retrieving Routes                   : [=======                                 ] 19%Retrieving Routes                   : [=========                               ] 22%Retrieving Routes                   : [==========                              ] 25%Retrieving Routes                   : [===========                             ] 29%Retrieving Routes                   : [============                            ] 32%Retrieving Routes                   : [==============                          ] 35%Retrieving Routes                   : [===============                         ] 38%Retrieving Routes                   : [================                        ] 41%Retrieving Routes                   : [==================                      ] 45%Retrieving Routes                   : [===================                     ] 48%Retrieving Routes                   : [====================                    ] 51%Retrieving Routes                   : [=====================                   ] 54%Retrieving Routes                   : [=======================                 ] 58%Retrieving Routes                   : [========================                ] 61%Retrieving Routes                   : [=========================               ] 64%Retrieving Routes                   : [===========================             ] 67%Retrieving Routes                   : [============================            ] 70%Retrieving Routes                   : [=============================           ] 74%Retrieving Routes                   : [==============================          ] 77%Retrieving Routes                   : [================================        ] 80%Retrieving Routes                   : [=================================       ] 83%Retrieving Routes                   : [==================================      ] 87%Retrieving Routes                   : [====================================    ] 90%Retrieving Routes                   : [=====================================   ] 93%Retrieving Routes                   : [======================================  ] 96%Retrieving Routes                   : [========================================] 100%
+Building Index                      : [=                                       ] 3%Building Index                      : [==                                      ] 6%Building Index                      : [===                                     ] 9%Building Index                      : [=====                                   ] 12%Building Index                      : [======                                  ] 16%Building Index                      : [=======                                 ] 19%Building Index                      : [=========                               ] 22%Building Index                      : [==========                              ] 25%Building Index                      : [===========                             ] 29%Building Index                      : [============                            ] 32%Building Index                      : [==============                          ] 35%Building Index                      : [===============                         ] 38%Building Index                      : [================                        ] 41%Building Index                      : [==================                      ] 45%Building Index                      : [===================                     ] 48%Building Index                      : [====================                    ] 51%Building Index                      : [=====================                   ] 54%Building Index                      : [=======================                 ] 58%Building Index                      : [========================                ] 61%Building Index                      : [=========================               ] 64%Building Index                      : [===========================             ] 67%Building Index                      : [============================            ] 70%Building Index                      : [=============================           ] 74%Building Index                      : [==============================          ] 77%Building Index                      : [================================        ] 80%Building Index                      : [=================================       ] 83%Building Index                      : [==================================      ] 87%Building Index                      : [====================================    ] 90%Building Index                      : [=====================================   ] 93%Building Index                      : [======================================  ] 96%Building Index                      : [========================================] 100%2025-09-26 10:40:57,668 Successfully completed frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.build_index_for_all_routes', kwargs={}, method=<function build_index_for_all_routes at 0x7eff24086980>, site='todo.localhost', user='Administrator') job in 0:00:01.034590s on worker 7218341d36194421ab7c9c8e4c2486ca
+2025-09-26 10:40:57,668 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long: Job OK (todo.localhost||4016de88-4d4c-472d-94da-47af6a442ed9)
+2025-09-26 10:40:57,668 Result is kept for 600 seconds
+2025-09-26 10:54:27,782 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 10:54:27,783 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 10:54:27,784 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 11:07:57,951 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 11:07:57,952 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 11:07:57,952 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 11:21:28,113 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 11:21:28,114 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 11:21:28,115 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 11:34:58,195 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 11:34:58,197 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 11:34:58,198 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 11:48:28,242 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 11:48:28,243 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 11:48:28,243 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 11:57:02,104 Worker 7218341d36194421ab7c9c8e4c2486ca [PID 53949]: warm shut down requested
+2025-09-26 11:57:02,104 Unsubscribing from channel rq:pubsub:7218341d36194421ab7c9c8e4c2486ca
+2025-09-26 11:57:03,380 Worker rq:worker:7d488a7ae3c545c5a512a79309685650 started with PID 93266, version 2.4.0
+2025-09-26 11:57:03,380 Subscribing to channel rq:pubsub:7d488a7ae3c545c5a512a79309685650
+2025-09-26 11:57:03,381 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 11:57:03,381 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 11:57:03,382 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 11:57:03,382 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 12:10:33,420 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 12:10:33,420 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 12:10:33,420 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 12:24:03,575 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 12:24:03,576 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 12:24:03,577 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 12:37:33,650 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 12:37:33,651 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 12:37:33,652 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 12:51:03,675 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 12:51:03,676 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 12:51:03,676 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 13:04:33,798 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 13:04:33,799 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 13:04:33,799 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 13:18:03,853 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 13:18:03,853 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 13:18:03,854 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 13:22:47,809 Worker 7d488a7ae3c545c5a512a79309685650 [PID 93266]: warm shut down requested
+2025-09-26 13:22:47,809 Unsubscribing from channel rq:pubsub:7d488a7ae3c545c5a512a79309685650
+2025-09-26 13:22:49,194 Worker rq:worker:3185256610f74458b386c886d9af73d8 started with PID 158140, version 2.4.0
+2025-09-26 13:22:49,194 Subscribing to channel rq:pubsub:3185256610f74458b386c886d9af73d8
+2025-09-26 13:22:49,194 *** Listening on home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default, home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long...
+2025-09-26 13:22:49,194 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 13:22:49,195 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 13:22:49,195 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 13:36:19,334 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 13:36:19,335 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 13:36:19,335 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 13:49:49,477 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 13:49:49,478 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 13:49:49,478 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 14:03:19,518 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 14:03:19,519 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 14:03:19,519 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 14:16:49,598 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 14:16:49,599 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 14:16:49,599 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 14:28:38,397 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Project', 'name': '019984e7-8ef0-71a1-a6ad-c5fb700a3663'}, method='frappe.model.delete_doc.delete_dynamic_links', site='todo.localhost', user='Administrator') (todo.localhost||ce54d44f-a83b-418a-b73a-d426beb24470)
+2025-09-26 14:28:38,439 Successfully completed frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Project', 'name': '019984e7-8ef0-71a1-a6ad-c5fb700a3663'}, method='frappe.model.delete_doc.delete_dynamic_links', site='todo.localhost', user='Administrator') job in 0:00:00.019429s on worker 3185256610f74458b386c886d9af73d8
+2025-09-26 14:28:38,439 home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default: Job OK (todo.localhost||ce54d44f-a83b-418a-b73a-d426beb24470)
+2025-09-26 14:28:38,439 Result is kept for 600 seconds
+2025-09-26 14:28:38,441 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 14:28:38,441 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 14:28:38,441 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 14:42:08,568 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 14:42:08,568 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 14:42:08,568 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 14:55:38,688 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 14:55:38,688 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 14:55:38,689 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 15:09:08,832 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 15:09:08,833 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 15:09:08,833 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 15:22:39,004 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 15:22:39,005 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 15:22:39,006 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 15:36:09,114 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 15:36:09,115 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 15:36:09,115 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 15:49:39,144 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:short
+2025-09-26 15:49:39,145 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:default
+2025-09-26 15:49:39,145 Cleaning registries for queue: home-pason-Works-VNS-others-simple-task-manager-frappe-bench:long
+2025-09-26 16:00:00,507 Worker 3185256610f74458b386c886d9af73d8 [PID 158140]: warm shut down requested
+2025-09-26 16:00:00,507 Unsubscribing from channel rq:pubsub:3185256610f74458b386c886d9af73d8

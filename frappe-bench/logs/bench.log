@@ -1,0 +1,121 @@
+2025-09-26 08:56:45,806 DEBUG cd frappe-bench && python3 -m venv env
+2025-09-26 08:56:46,879 DEBUG cd frappe-bench && /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-09-26 08:56:47,254 DEBUG cd frappe-bench && /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/python -m pip install --quiet wheel
+2025-09-26 08:56:47,673 LOG Getting frappe
+2025-09-26 08:56:47,673 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git  --depth 1 --origin upstream
+2025-09-26 08:56:56,486 LOG Installing frappe
+2025-09-26 08:56:56,487 DEBUG cd /home/pason/Works/VNS/others/simple-task-manager/frappe-bench && /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/apps/frappe 
+2025-09-26 08:57:14,558 DEBUG cd /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/apps/frappe && yarn install --check-files
+2025-09-26 08:57:39,090 DEBUG cd frappe-bench && bench build
+2025-09-26 08:57:39,160 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench build
+2025-09-26 08:57:46,641 LOG setting up backups
+2025-09-26 08:57:46,671 LOG backups were set up
+2025-09-26 08:57:46,671 INFO Bench frappe-bench initialized
+2025-09-26 08:57:55,278 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench start
+2025-09-26 08:57:55,398 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench worker
+2025-09-26 08:57:55,398 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench watch
+2025-09-26 08:57:55,402 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench serve --port 8000
+2025-09-26 08:57:55,412 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench schedule
+2025-09-26 09:02:27,138 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench new-site todo.localhost
+2025-09-26 09:29:12,601 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench new-site todo.localhost
+2025-09-26 09:33:50,771 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench new-site todo.localhost
+2025-09-26 09:35:09,050 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost install-app todo_app
+2025-09-26 09:35:30,743 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench new-app todo_app
+2025-09-26 09:35:30,745 LOG creating new app todo_app
+2025-09-26 09:36:35,445 LOG Installing todo_app
+2025-09-26 09:36:35,445 DEBUG cd /home/pason/Works/VNS/others/simple-task-manager/frappe-bench && /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/apps/todo_app 
+2025-09-26 09:36:36,390 DEBUG bench build --app todo_app
+2025-09-26 09:36:36,461 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench build --app todo_app
+2025-09-26 09:36:49,269 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost install-app todo_app
+2025-09-26 09:37:44,458 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost new-doctype ToDo --module todo_app --custom --quick
+2025-09-26 09:38:19,578 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost serve
+2025-09-26 09:42:10,462 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost set-admin-password P@ssw0rd123
+2025-09-26 09:42:17,763 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost serve
+2025-09-26 09:43:18,380 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost serve
+2025-09-26 09:43:38,787 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost migrate
+2025-09-26 09:43:49,015 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench start
+2025-09-26 09:43:49,134 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench serve --port 8000
+2025-09-26 09:43:49,142 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench watch
+2025-09-26 09:43:49,147 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench schedule
+2025-09-26 09:43:49,153 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench worker
+2025-09-26 09:44:37,192 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost serve
+2025-09-26 09:49:32,170 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost list-apps
+2025-09-26 09:57:24,750 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost migrate
+2025-09-26 09:57:25,330 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench restart
+2025-09-26 09:57:30,869 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench start
+2025-09-26 09:57:30,999 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench schedule
+2025-09-26 09:57:31,000 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench worker
+2025-09-26 09:57:31,002 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench serve --port 8000
+2025-09-26 09:57:31,002 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench watch
+2025-09-26 09:57:32,934 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost migrate
+2025-09-26 09:57:34,352 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench restart
+2025-09-26 10:10:50,208 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost execute frappe.db.get_all --args ['User', {}, ['name']]
+2025-09-26 10:11:12,451 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost set-admin-password password123
+2025-09-26 10:12:16,861 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost execute frappe.db.get_all --args ['User', {}, ['name','enabled']]
+2025-09-26 10:12:28,310 INFO /home/pason/Works/VNS/others/simple-task-manager/.venv/bin/bench --site todo.localhost set-admin-password password123
+2025-09-26 10:33:30,500 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench start
+2025-09-26 10:33:34,575 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench start
+2025-09-26 10:34:48,967 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench start
+2025-09-26 10:34:49,094 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench serve --port 8000
+2025-09-26 10:34:49,104 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench schedule
+2025-09-26 10:34:49,104 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench worker
+2025-09-26 10:34:49,109 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench watch
+2025-09-26 10:35:48,148 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench start
+2025-09-26 10:35:48,276 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench watch
+2025-09-26 10:35:48,292 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench serve --port 8000
+2025-09-26 10:35:48,299 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench worker
+2025-09-26 10:35:48,307 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench schedule
+2025-09-26 10:37:41,732 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench start
+2025-09-26 10:37:41,864 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench watch
+2025-09-26 10:37:41,865 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench serve --port 8000
+2025-09-26 10:37:41,866 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench schedule
+2025-09-26 10:37:41,871 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench worker
+2025-09-26 10:37:59,654 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench start
+2025-09-26 10:37:59,779 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench worker
+2025-09-26 10:37:59,781 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench schedule
+2025-09-26 10:37:59,794 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench watch
+2025-09-26 10:37:59,795 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench serve --port 8000
+2025-09-26 10:40:55,606 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost migrate
+2025-09-26 10:41:04,144 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench restart
+2025-09-26 10:41:08,049 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost console
+2025-09-26 10:42:14,141 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost console
+2025-09-26 10:42:44,403 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost install-app todo_app
+2025-09-26 10:45:43,582 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost install-app todo_app
+2025-09-26 10:45:47,558 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost console
+2025-09-26 11:57:03,076 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench start
+2025-09-26 11:57:03,198 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench worker
+2025-09-26 11:57:03,202 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench serve --port 8000
+2025-09-26 11:57:03,209 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench schedule
+2025-09-26 11:57:03,209 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench watch
+2025-09-26 13:22:48,864 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench start
+2025-09-26 13:22:48,997 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench worker
+2025-09-26 13:22:48,997 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench schedule
+2025-09-26 13:22:49,015 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench watch
+2025-09-26 13:22:49,016 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench serve --port 8000
+2025-09-26 14:11:52,846 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site library.localhost mariadb
+2025-09-26 14:12:42,658 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site library.localhost mariadb
+2025-09-26 14:13:00,942 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench find .
+2025-09-26 14:13:16,349 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench library-management
+2025-09-26 14:13:40,657 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site library.localhost install-app todo_app
+2025-09-26 14:13:49,499 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site library.localhost mariadb
+2025-09-26 14:13:57,806 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench mariadb --help
+2025-09-26 14:14:05,955 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench mariadb
+2025-09-26 14:14:15,983 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench mariadb --site todo
+2025-09-26 14:14:19,173 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench mariadb --site todo_app
+2025-09-26 14:14:24,160 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench liist
+2025-09-26 14:14:26,978 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench list
+2025-09-26 14:14:36,741 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench list-sites
+2025-09-26 14:14:45,592 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench mariadb --site todo.localhost
+2025-09-26 14:51:20,240 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.local mariadb
+2025-09-26 14:51:29,117 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost mariadb
+2025-09-26 16:01:57,556 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench note_app library_management
+2025-09-26 16:02:05,790 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench find .
+2025-09-26 16:02:28,478 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench new_app library_management
+2025-09-26 16:03:29,435 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench new-app library_management
+2025-09-26 16:03:29,438 LOG creating new app library_management
+2025-09-26 16:04:09,599 LOG Installing library_management
+2025-09-26 16:04:09,600 DEBUG cd /home/pason/Works/VNS/others/simple-task-manager/frappe-bench && /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/apps/library_management 
+2025-09-26 16:04:10,510 DEBUG bench build --app library_management
+2025-09-26 16:04:10,572 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench build --app library_management
+2025-09-26 16:05:17,896 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost install-app library_management
+2025-09-26 16:05:52,956 INFO /home/pason/Works/VNS/others/simple-task-manager/frappe-bench/env/bin/bench --site todo.localhost new-doctype Library Member --module Library Management --custom=0

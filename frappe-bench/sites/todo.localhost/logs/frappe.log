@@ -1,0 +1,195 @@
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:48,652 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,801 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,802 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:38:52,802 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.reset_password', 'user': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe Error while inserting deferred Error Log record: 'str' object has no attribute 'update'
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 09:39:38,722 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'cmd': 'frappe.www.login.send_login_link', 'email': 'pason.dev@gmail.com'}
+2025-09-26 10:18:44,290 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {}
+2025-09-26 10:18:44,303 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'title': 'Test Project', 'description': 'Test project description'}
+2025-09-26 10:19:03,450 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {}
+2025-09-26 10:19:17,399 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {}
+2025-09-26 10:22:52,757 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {}
+2025-09-26 10:22:56,816 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {}
+2025-09-26 10:27:23,860 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'doc': {'doctype': 'DocType', 'name': 'Project', 'module': 'Todo App', 'custom': 0, 'fields': [{'fieldname': 'title', 'fieldtype': 'Data', 'label': 'Project Name', 'reqd': 1}, {'fieldname': 'description', 'fieldtype': 'Small Text', 'label': 'Description'}], 'permissions': [{'role': 'System Manager', 'read': 1, 'write': 1, 'create': 1, 'delete': 1}, {'role': 'User', 'read': 1, 'write': 1, 'create': 1}]}, 'cmd': 'frappe.desk.form.save.savedocs'}
+2025-09-26 10:41:54,795 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {}
+2025-09-26 10:41:54,807 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'title': 'My First Project', 'description': 'Test project'}
+2025-09-26 12:15:16,190 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'token': '********', 'cmd': 'todo_app.api.auth.login_jwt'}
+2025-09-26 12:16:17,654 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'cmd': 'todo_app.api.auth.verify_jwt_token'}
+2025-09-26 13:25:44,871 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'project_name': 'vietnam_silicon_tmi', 'description': 'This is the Talent Market Intelligence project tasks list', 'cmd': 'todo_app.api.project.create'}
+2025-09-26 13:26:07,801 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'project_name': 'vietnam_silicon_tmi', 'description': 'Talent Market Intelligence project tasks list', 'cmd': 'todo_app.api.project.create'}
+2025-09-26 13:28:04,214 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'project_name': 'vietnam_silicon_tmi', 'description': 'Talent Market Intelligence project tasks list', 'cmd': 'todo_app.api.project.create'}
+2025-09-26 13:28:05,504 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'project_name': 'vietnam_silicon_tmi', 'description': 'Talent Market Intelligence project tasks list', 'cmd': 'todo_app.api.project.create'}
+2025-09-26 13:37:14,981 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'title': 'Test Project', 'description': 'Session test', 'cmd': 'todo_app.api.project.create_project'}
+2025-09-26 14:25:47,813 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'name': '019984e7-8ef0-71a1-a6ad-c5fb700a3663', 'project_name': 'tmi_v2.1', 'cmd': 'todo_app.api.project.update'}
+2025-09-26 14:26:24,992 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'name': '019984e7-8ef0-71a1-a6ad-c5fb700a3663', 'project_name': 'tmi_v2.1', 'cmd': 'todo_app.api.project.update'}
+2025-09-26 14:26:26,433 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'name': '019984e7-8ef0-71a1-a6ad-c5fb700a3663', 'project_name': 'tmi_v2.1', 'cmd': 'todo_app.api.project.update'}
+2025-09-26 14:26:57,616 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'name': '019984e7-8ef0-71a1-a6ad-c5fb700a3663', 'project_name': 'tmi_v2.1', 'cmd': 'todo_app.api.project.update'}
+2025-09-26 14:27:55,789 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'cmd': 'todo_app.api.project.update'}
+2025-09-26 14:28:00,906 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'cmd': 'todo_app.api.project.delete'}
+2025-09-26 14:40:34,408 ERROR frappe New Exception collected in error log
+Site: todo.localhost
+Form Dict: {'project_name': 'vietnam_silicon_tmi_v3', 'task_title': 'learn python', 'assigned_to': 'No one', 'cmd': 'todo_app.api.task.create_task'}
